@@ -1,5 +1,5 @@
 .fondoNav{
-    background-image: url('../../img/fondopatitas.avif');
+    background-image: url('/public/img/fondopatitas.avif');
     background-repeat: repeat;
     background-size: 7rem;
 }

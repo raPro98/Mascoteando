@@ -1,0 +1,15 @@
+.containerItem {
+    width: 250px;
+    background-color: rgba(245, 137, 43, 0.647);
+    border-radius: 1.5rem;
+    border: solid rgb(255, 255, 255);
+}
+
+.containerImagen{
+    height: 250px;
+}
+
+.letra{
+    color: black;
+    text-decoration: none;
+}

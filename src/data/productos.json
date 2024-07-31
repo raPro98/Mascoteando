@@ -1,0 +1,92 @@
+[
+    {
+        "id": "aperro-01",
+        "nombre":"Dog Buffet 25Kg",
+        "imagen": "/img/alimentoperros/dogbuffet.jpg",
+        "categoria": {
+            "id":"alimentos"
+        },
+        "tipo": "Alimento corriente",
+        "precio": 26900
+    },
+    {
+        "id":"aperro-02",
+        "nombre":"Sabrokan 25Kg",
+        "imagen": "/img/alimentoperros/sabrokan.jpg",
+        "categoria": {
+            "id":"alimentos"
+        },
+        "tipo": "Alimento corriente",
+        "precio": 32900
+    },
+    {
+        "id":"aperro-03",
+        "nombre":"Cachupin 25Kg",
+        "imagen": "/img/alimentoperros/cachupin.jpg",
+        "categoria": {
+            "id":"alimentos"
+        },
+        "tipo": "Alimento corriente",
+        "precio": 36900
+    },
+    {
+        "id":"accperro-01",
+        "nombre":"Pelota con Cuerda",
+        "imagen": "/img/accesorios/pelotacuerda.jpg",
+        "categoria": {
+            "id":"accesorios"
+        },
+        "tipo": "Juguete para Perros",
+        "precio": 5900
+    },
+    {
+        "id":"accperro-02",
+        "nombre":"Plato para Comida y Agua",
+        "imagen": "/img/accesorios/platocomida.jpg",
+        "categoria": {
+            "id":"accesorios"
+        },
+        "tipo": "Utensilios para Perros",
+        "precio": 6500
+    },
+    {
+        "id":"accperro-03",
+        "nombre":"Abrigo para Perro Talla L",
+        "imagen": "/img/accesorios/abrigoperro.jpg",
+        "categoria": {
+            "id":"accesorios"
+        },
+        "tipo": "Ropa para Perros",
+        "precio": 9900
+    },
+    {
+        "id":"fperro-01",
+        "nombre":"Pipeta Externa Advantix",
+        "imagen": "/img/farmacia/advantix1025.jpg",
+        "categoria": {
+            "id":"farmacia"
+        },
+        "tipo": "Antiparasitario",
+        "precio": 9900
+    },
+    {
+        "id":"fperro-02",
+        "nombre":"Antiparasitario Drontal Plus",
+        "imagen": "/img/farmacia/drontalperro.webp",
+        "categoria": {
+            "id":"farmacia"
+        },
+        "tipo": "Antiparasitario",
+        "precio": 7900
+    },
+    {
+        "id":"fperro-03",
+        "nombre":"Shampoo Contra Pulgas Sinpul",
+        "imagen": "/img/farmacia/sinpulshampoo.webp",
+        "categoria": {
+            "id":"farmacia"
+        },
+        "tipo": "Antiparasitario",
+        "precio": 4900
+    }
+]

@@ -1,6 +1,6 @@
 import React from 'react'
 import "./NavBar.css"
-import { PiShoppingCartFill } from "react-icons/pi";
+import { PiShoppingCartFill } from "react-icons/pi"
 
 const CartWidget = () => {
   return (
